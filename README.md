@@ -1,2 +1,0 @@
-# sxx_repository
-myfirst
